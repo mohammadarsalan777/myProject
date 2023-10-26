@@ -1,3 +1,3 @@
 # myProject
 
-Author: Mohammad Arsalan (Raect Developer)
+Author: Mohammad Arsalan (React/Javascript Developer, Python and ML developer)
